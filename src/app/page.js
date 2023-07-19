@@ -21,7 +21,7 @@ export default function Home() {
       </div>
 
       {/* //footer section */}
-      <Footer year="2023" fullName="Tiger Tanner" studentId="650612083" />
+      <Footer year="2023" fullname="Tiger Tanner" studentId="650612083" />
     </div>
   );
 }
